@@ -1,4 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page solution
+# Frontend Mentor - SunnySide Agency Landing Page Solution
 
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -20,8 +20,8 @@ Top page navigation uses a usestate hook to toggle between active and inactive d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/David4bay/SunnySide-Agency)
+- Live Site URL: [Live Site](https://stalwart-tartufo-c5874f.netlify.app/)
 
 ## My process
 
