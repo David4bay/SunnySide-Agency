@@ -23,7 +23,6 @@ Top page navigation uses a usestate hook to toggle between active and inactive d
 
 ![screenshot](./screenshot/sunnyside%20screenshot.PNG)
 
-
 ## My process
 
 Started with the mobile first approach, making sure to structure html semantically for screen-readers and other devices.
