@@ -37,4 +37,4 @@ Started with the mobile first approach, making sure to structure html semantical
 
 ### What I learned
 
-React basics as I had to plan out the component layout of each section of the page and then made use of a react usestate hook to manage the state of the dropdown menu.
+I used React useState hook to manage the state of the dropdown menu.
