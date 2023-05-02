@@ -5,8 +5,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -14,14 +14,15 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 Top page navigation uses a usestate hook to toggle between active and inactive dropdown menu for mobile and desktop, the desktop layout mainly makes use of grid positioning but also uses flex to center content in some sections, the table layout was done with css grid.
 
-### Screenshot
-
-![screenshot](./screenshot/sunnyside%20screenshot.PNG)
-
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/David4bay/SunnySide-Agency)
 - Live Site URL: [Live Site](https://stalwart-tartufo-c5874f.netlify.app/)
+
+### Screenshot
+
+![screenshot](./screenshot/sunnyside%20screenshot.PNG)
+
 
 ## My process
 
