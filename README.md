@@ -26,7 +26,7 @@ Top page navigation uses a usestate hook to toggle between active and inactive d
 
 ## My process
 
-I used the mobile first approach, starting from the navigation at the top to the footer making sure to structure html semantically for screen-readers and other devices.
+Started with the mobile first approach, making sure to structure html semantically for screen-readers and other devices.
 
 ### Built with
 
