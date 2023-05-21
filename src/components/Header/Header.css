@@ -1,0 +1,52 @@
+Header {
+    display: block;
+    background: url(/src/assets/mobile/image-header.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.Header__Title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    letter-spacing: 5px;
+    padding-top: 60px;
+}
+
+.Arrow__Down {
+    display: block;
+    width: 50px;
+    height: 50vh;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    position: absolute;
+    background-image: url(/src/assets/icon-arrow-down.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 1;
+}
+
+@media (min-width: 950px) {
+    
+    .Header {
+        background: url(/src/assets/desktop/image-header.jpg) no-repeat center center;
+        background-size: cover;
+        
+    }
+
+    .Arrow__Down {
+        width: 60px;
+        height: 53vh;
+    }
+
+    .Header__Title {
+        font-size: 50px;
+    }
+}

@@ -1,0 +1,75 @@
+.Footer {
+    font-family: 'Barlow', sans-serif;
+    padding-top: 70px;
+    background-color: hsl(167, 44%, 70%);
+}
+
+.Footer__Title {
+    display: block;
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    color: hsl(166, 42%, 34%);
+    padding-bottom: 55px;
+}
+
+.Footer__Title:hover {
+    cursor:pointer;
+}
+
+.Footer__Info {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    color: hsl(166, 42%, 34%);
+    padding-bottom: 92px;
+}
+
+.Footer__Icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    padding-bottom: 80px;
+}
+
+.Attribution {
+    display: block;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: #000;
+    padding: 1px;
+}
+
+.Facebook__Icon, .Twitter__Icon, .Instagram__Icon, .Pinterest__Icon  {
+    cursor: pointer;
+    color: #2d7466;
+    width: 30px;
+    height: 30px;
+}
+
+.Facebook__Icon:hover, .Twitter__Icon:hover, .Instagram__Icon:hover, .Pinterest__Icon:hover {
+    cursor: pointer;
+}
+
+.Attribution a {
+    color: #22afe0;
+    cursor: pointer;
+}
+
+.Social:hover {
+    cursor: pointer;
+}
+
+@media (min-width: 950px) {
+    .Footer__Title {
+        font-size: 55px;
+    }
+
+    .Social {
+        font-size: 19px;
+    }
+}
